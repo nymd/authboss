@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"path"
 
-	"github.com/volatiletech/authboss"
+	"github.com/nymd/authboss"
 )
 
 // EmailVerify has a middleware function that prevents access to routes

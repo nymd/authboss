@@ -3,7 +3,7 @@ package defaults
 import (
 	"fmt"
 
-	"github.com/volatiletech/authboss"
+	"github.com/nymd/authboss"
 )
 
 // HTTPFormValidator validates HTTP post type inputs

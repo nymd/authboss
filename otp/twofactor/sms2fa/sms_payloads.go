@@ -3,7 +3,7 @@ package sms2fa
 import (
 	"fmt"
 
-	"github.com/volatiletech/authboss"
+	"github.com/nymd/authboss"
 )
 
 // SMSValuer returns a code or a resend-code from the body

@@ -1,6 +1,6 @@
 package twofactor
 
-import "github.com/volatiletech/authboss"
+import "github.com/nymd/authboss"
 
 // Page constants
 const (

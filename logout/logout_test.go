@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/volatiletech/authboss"
-	"github.com/volatiletech/authboss/mocks"
+	"github.com/nymd/authboss"
+	"github.com/nymd/authboss/mocks"
 )
 
 func TestLogout(t *testing.T) {

@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/volatiletech/authboss"
-	"github.com/volatiletech/authboss/otp/twofactor"
+	"github.com/nymd/authboss"
+	"github.com/nymd/authboss/otp/twofactor"
 )
 
 // Session keys

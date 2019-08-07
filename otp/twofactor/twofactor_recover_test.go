@@ -8,8 +8,8 @@ import (
 
 	"golang.org/x/crypto/bcrypt"
 
-	"github.com/volatiletech/authboss"
-	"github.com/volatiletech/authboss/mocks"
+	"github.com/nymd/authboss"
+	"github.com/nymd/authboss/mocks"
 )
 
 func TestSetup(t *testing.T) {

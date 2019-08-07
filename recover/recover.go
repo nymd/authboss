@@ -15,7 +15,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/volatiletech/authboss"
+	"github.com/nymd/authboss"
 	"golang.org/x/crypto/bcrypt"
 )
 

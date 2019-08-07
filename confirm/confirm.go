@@ -15,7 +15,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/volatiletech/authboss"
+	"github.com/nymd/authboss"
 )
 
 const (
